@@ -1,0 +1,5 @@
+qseqid	sacc	pident	qcovs	evalue	bitscore	stitle
+query_1	ABC123	98.5	95	1e-80	250.0	Hypothetical protein A
+query_1	XYZ456	96.2	99	1e-75	240.0	DNA polymerase protein
+query_1	DEF789	89.0	80	1e-40	180.0	Membrane protein
+query_1	GHI321	99.0	65	1e-80	95.0	Uncharacterized protein
